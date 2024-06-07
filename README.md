@@ -6,10 +6,10 @@
 # How to execute code
   Execute code by run command:
   ```ruby
-  ts-node merge.ts 
+  npm start
   ```
 # How to execute unit test
-  Execute unit test by run command:
+  Execute unit test by running the command:
    ```ruby
-  npm run test 
+  npm test merge.test.ts
   ```
