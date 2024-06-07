@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "start": "ts-node merge.ts"
+    "test": "jest $1",
+    "start": "ts-node src/merge.ts"
   },
   "keywords": [],
   "author": "",
